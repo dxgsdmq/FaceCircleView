@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FaceCircleView">
+        <attr name="animLineHeight" format="dimension" />
+        <attr name="animLineWidth" format="dimension" />
+        <attr name="animLineColor" format="color" />
+        <attr name="bgMaskColor" format="color" />
+        <attr name="faceCircleWidthRatio" format="float" />
+        <attr name="faceCircleTopRatio" format="float" />
+        <attr name="animFaceCircleGap" format="dimension" />
+    </declare-styleable>
+</resources>
